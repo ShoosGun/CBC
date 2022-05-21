@@ -1,0 +1,8 @@
+{
+	"filename": "CBC.dll",
+	"author": "Locochoco",
+	"name": "Cooler Bottom Cams",
+	"uniqueName": "Locochoco.CoolerBottomCams",
+	"version": "1.0.0",
+	"dependencies": ["Locochoco.CAMOWA"]
+}
